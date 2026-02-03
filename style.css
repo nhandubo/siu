@@ -15,7 +15,7 @@ body {
 /* Header & Navigation */
 .header {
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                url('https://drive.google.com/file/d/1A6qMZUxwT9jholDXFlsI2YnNL44C8nbk/view?usp=drivesdk') no-repeat center/cover;
+                url('https://picsum.photos/1200/400?grayscale') no-repeat center/cover;
     height: 350px;
     display: flex;
     flex-direction: column;
@@ -164,3 +164,4 @@ body {
     }
 
 }
+
